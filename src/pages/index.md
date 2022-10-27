@@ -1,62 +1,89 @@
 ---
-title: Richard Hendriks - Resume
+title: Emanuel Suriano - Resume
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 noIndex: true
 ---
 
-# Richard Hendriks
+# Emanuel Suriano
 
-**Programmer**
+**Senior Software Engineer | [emasuriano.com](https://emasuriano.com/) | emanuel.suriano@gmail.com**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+_Berlin, Germany_
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+A senior software engineer experienced in Frontend development, mentoring engineers, and software architecture. Open Source enthusiast, speaker, and writer.
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [Revolut](https://www.revolut.com/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Senior Software Engineer - Integrations | Oct, 2020 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+Member of the Integrations team. The main goal of the team is to develop and integrate payments methods into the website of providers, where providers can be from an external website, as well as inside Revolut flows.
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### [Omio](https://www.omio.com/)
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### Senior Software Engineer - UI Platform | Jan, 2019 - Oct, 2020
 
-### [Pied Piper](http://piedpiper.com/)
+Member of UI Platform team. The goal of this is team was to empower teams by providing technical solutions to improve their speed and ensure the quality of the projects inside the company. The communication and feedback with the teams played a big role.
 
-#### CEO/President | Dec 2013 - Dec 2014
+- Decision-making on technologies and tools to be used across the organization
+- Build a development framework for all teams working in React and React Native projects
+- Design and Implementation of Omio's Web and React Native architecture
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### Software Engineer - Booking Team | Aug, 2018 - Jan, 2019
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+Member of UI Platform team. The goal of this is team was to empower teams by providing technical solutions to improve their speed and ensure the quality of the projects inside the company. The communication and feedback with the teams played a big role.
+
+- Decision-making on technologies and tools to be used across the organization
+- Build a development framework for all teams working in React and React Native projects
+- Design and Implementation of Omio's Web and React Native architecture
+
+### [intive](https://intive.com/)
+
+#### Web Development Team Lead | Mar, 2018 - Aug, 2018
+
+Leading a team of Frontend engineers and working for an important air flight company located in the US.
+
+- Develop a scalable React architecture
+- Collaborative working with teams located in different timezones
+- Ensure Accessibility (a11y) development
+
+#### Web Developer | Aug, 2016 - Feb, 2018
+
+Working with a team of more than 20 developers for a big contractor located in the United States. The project was a suite of 12 products built open a single SPA.
+
+- Building the Architecture foundation of the project using React
+- Abstraction and reuse of components across the 12 suites
+
+### [Globant](https://www.globant.com/)
+
+#### Software Developer | Sep, 2015 - Aug, 2016
+
+Developed enhancements for a legacy audit-related application applying technologies such as .Net C#, Angular JS, Entity Framework, MVC, SQL
+
+### [Qservices](https://www.qservices.com.ar/)
+
+#### Junior Software Developer | Aug, 2014 - Sep, 2015
+
+Development of Web visualization tools using Jquery and Bootstrap and building Web Servers using .NET C# and SQL.
 
 ## Projects
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+### [Blindle](https://blindle.github.io/page1.html#menu1-2c)
 
-#### Occaecat qui Lorem adipisicing ut sunt aute. | Oct 2014
+#### Co-creator | Mar, 2017 - Dec, 2017
 
-Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. Cupidatat commodo cillum dolore nulla veniam enim in enim sint velit proident. Cupidatat laboris exercitation aliquip dolore eu elit. In mollit veniam eiusmod irure anim sit aute eu magna cillum. Sint aute irure laboris aute officia in velit in irure deserunt. Incididunt mollit mollit pariatur laborum laboris mollit ad enim ipsum deserunt. Ad tempor nulla occaecat consequat dolor nulla
-
-#### Video Compression for 3D Media
-
-#### Founder | Oct 2014
-
-Innovative middle-out compression algorithm that changes the way we store data.
+Open Source and accessible device to learn Braille, driven by the need in the device market for blind people. The project consists of a set of instructions to assemble your own device, from the mechanical parts needed to the code that needs to be executed inside the electronic boards.
 
 ## Languages
 
-| English        |
-| -------------- |
-| Native speaker |
+| Spanish        | English                       | German                           |
+| -------------- | ----------------------------- | -------------------------------- |
+| Native speaker | Full professional proficiency | Professional Working Proficiency |
 
 ## Education
 
-### University of Oklahoma
+### National University of La Matanza
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Master's degree, Computer Engineering | 2011 - 2017
