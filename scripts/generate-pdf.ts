@@ -1,11 +1,7 @@
 import { chromium } from 'playwright';
 
 (async () => {
-  const executablePath = process.env.NETLIFY_DEV
-    ? '/opt/homebrew/bin/chromium'
-    : await chromium.executablePath();
-
-  const browser = await chromium.launch({ executablePath });
+  const browser = await chromium.launch();
   const page = await browser.newPage();
 
   await page.goto('http://127.0.0.1:3000/', { waitUntil: 'networkidle' });
