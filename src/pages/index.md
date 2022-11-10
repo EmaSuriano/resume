@@ -78,7 +78,7 @@ Development of Web visualization tools using Jquery and Bootstrap and building W
 
 #### Maintainer | Feb 2017 - Current
 
-Maintainer of many open source projects, based on different technologies and frameworks. At the same, I contributed to many open-source projects and several organizations, such as [React](https://reactjs.org/), [Gatsby](https://reactjs.org/) and [Astro](https://astro.build/).
+Maintainer of many open source projects, based on different technologies and frameworks. At the same, I contributed to many open-source projects and several organizations, such as [React](https://reactjs.org/), [Gatsby](https://reactjs.org/), and [Astro](https://astro.build/).
 
 ### [Blindle](https://blindle.github.io/page1.html#menu1-2c)
 
