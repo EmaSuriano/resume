@@ -53,7 +53,7 @@ Leading a team of Frontend engineers and working for an important air flight com
 - Collaborative working with teams located in different timezones
 - Ensure Accessibility (a11y) development
 
-#### Web Developer | Aug 2016 - Feb 2018
+#### Web Developer | Aug 2016 - Mar 2018
 
 Working with a team of more than 20 developers for a big contractor located in the United States. The project was a suite of 12 products built open a single SPA.
 
