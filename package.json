@@ -20,7 +20,7 @@
     "@fontsource/twinkle-star": "^4.5.9",
     "@tailwindcss/typography": "^0.5.8",
     "@types/node": "^18.11.10",
-    "playwright": "^1.28.1",
+    "playwright": "^1.30.0",
     "start-server-and-test": "^1.14.0",
     "ts-node": "^10.9.1"
   }
