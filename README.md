@@ -6,3 +6,9 @@
 Based on [astro-resume](https://github.com/emaSuriano/astro-resume)
 
 ## [Demo](https://resume.emasuriano.com/)
+
+## How to get changes from template
+
+- git remote add template https://github.com/EmaSuriano/astro-resume.git
+- git fetch --all
+- git merge template/main --allow-unrelated-histories
