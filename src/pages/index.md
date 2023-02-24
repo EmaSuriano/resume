@@ -1,5 +1,6 @@
 ---
 title: Emanuel Suriano - Resume
+description: A senior software engineer experienced in Frontend development, mentoring engineers, and software architecture. Open Source enthusiast, speaker, and writer.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 noIndex: true
