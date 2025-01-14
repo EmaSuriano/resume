@@ -18,7 +18,13 @@ A senior software engineer experienced in Frontend development, mentoring engine
 
 ### [Revolut](https://www.revolut.com/)
 
-#### Senior Software Engineer - Integrations | Oct 2020 - Current
+#### Senior Web Developer - Merchant Management Team | Nov 2022 - Current
+
+Member of the Merchant management team. The team maximizes organic gross profit by overseeing the merchant life cycle, including activation campaigns, merchant UI in Revolut Business, RiskOps tools, chargebacks, and off-boarding.
+
+As a Frontend Developer, I enhance user experiences in [Revolut Business](https://www.revolut.com/business/), leveraging my expertise from Business and Backoffice projects to maximize organic gross profit in the merchant life cycle.
+
+#### Senior Software Engineer - Integrations | Nov 2020 - Nov 2022
 
 Member of the Integrations team. The main goal is to develop and integrate payment methods into the website of providers, where providers can be from an external website, as well as inside Revolut flows.
 
