@@ -29,6 +29,9 @@ jobs:
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
 
+      # Disable the dev toolbar
+      - run: astro preferences disable devToolbar
+
       - run: yarn build
 
       - name: Upload artifact
