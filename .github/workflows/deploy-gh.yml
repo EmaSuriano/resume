@@ -19,8 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          submodules: recursive
 
       - uses: actions/setup-node@v3
         with:
@@ -36,10 +34,9 @@ jobs:
       - run: npx @divriots/jampack ./dist
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: "github-pages"
-          path: "dist"
+          path: ./dist
 
   deploy:
     needs: build
