@@ -1,14 +1,14 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from "astro/config";
+import tailwind from "@astrojs/tailwind";
 
-// https://astro.build/config
-import tailwind from '@astrojs/tailwind';
-
-// https://astro.build/config
 export default defineConfig({
+  // Please don't replace this! This is the URL where your site will be deployed.
+  site: "https://emasuriano.github.io",
+  base: "resume",
   integrations: [tailwind()],
   vite: {
     ssr: {
-      external: ['svgo'],
+      external: ["svgo"],
     },
   },
 });
