@@ -12,7 +12,7 @@ noIndex: true
 
 _Berlin, Germany_
 
-A senior software engineer experienced in Frontend development, mentoring engineers, and software architecture. Open Source enthusiast, speaker, and writer.
+A senior software engineer with extensive experience in frontend development, mentoring engineers, and software architecture. Passionate about open source, public speaking, and technical writing.
 
 ## Work Experience
 
