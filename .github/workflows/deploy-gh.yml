@@ -30,7 +30,7 @@ jobs:
         run: npx playwright install --with-deps
 
       # Disable the dev toolbar
-      - run: astro preferences disable devToolbar
+      - run: yarn astro preferences disable devToolbar
 
       - run: yarn build
 
